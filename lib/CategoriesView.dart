@@ -15,6 +15,8 @@ class _CategoriesViewState extends State<CategoriesView> {
             expandedHeight: 200,
             flexibleSpace: FlexibleSpaceBar(
               title: Text('CategoriesView'),
+
+
             ),
           ),
 
